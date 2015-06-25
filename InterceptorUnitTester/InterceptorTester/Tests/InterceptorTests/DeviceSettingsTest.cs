@@ -51,7 +51,7 @@ namespace InterceptorTester.Tests.InterceptorTests
           	string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + deviceSetting.getActualResult());
+			results.WriteLine ("Expected result: " + deviceSetting.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + deviceSetting.result ());
 			results.WriteLine ();
@@ -78,7 +78,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + deviceSetting.getActualResult());
+			results.WriteLine ("Expected result: " + deviceSetting.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + deviceSetting.result ());
 			results.WriteLine ();
@@ -105,7 +105,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + deviceSetting.getActualResult());
+			results.WriteLine ("Expected result: " + deviceSetting.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + deviceSetting.result ());
 			results.WriteLine ();

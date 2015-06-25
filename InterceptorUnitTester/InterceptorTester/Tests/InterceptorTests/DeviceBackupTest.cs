@@ -65,13 +65,14 @@ namespace InterceptorTester.Tests.InterceptorTests
 			AsyncContext.Run(async () => await new HTTPSCalls().runTest(backupTest, HTTPOperation.POST));
 			string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
-            results.WriteLine("Json posted:");
+			backupTest.setExpectedResult ("201");
+
+            
+			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
-
-			backupTest.setExpectedResult ("201");
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
 	
@@ -108,7 +109,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -221,7 +222,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -256,11 +257,10 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
-
 
 			Assert.AreEqual("201", statusCode);
 		}
@@ -295,7 +295,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -334,7 +334,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -374,7 +374,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -415,7 +415,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -457,7 +457,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (operation.getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + backupTest.getActualResult());
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + backupTest.result ());
 			results.WriteLine ();
@@ -474,7 +474,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			DeviceBackupJSON json = new DeviceBackupJSON ();
 			json.s = 652;
 			json.b = items;
-			json.i = TestGlobals.validSerial;
+			//json.i = TestGlobals.validSerial;
 
 			DeviceBackup operation = new DeviceBackup (TestGlobals.testServer, json);
 
@@ -486,6 +486,8 @@ namespace InterceptorTester.Tests.InterceptorTests
 
 			AsyncContext.Run (async () => await new HTTPSCalls ().runTest (backupTest, HTTPOperation.POST));
 			string statusCode = HTTPSCalls.result.Key.Property ("StatusCode").Value.ToString ();
+
+			Console.WriteLine (HTTPSCalls.result.ToString());
 
 			results.WriteLine ("Json posted:");
 			results.WriteLine (operation.getJson ().ToString ());

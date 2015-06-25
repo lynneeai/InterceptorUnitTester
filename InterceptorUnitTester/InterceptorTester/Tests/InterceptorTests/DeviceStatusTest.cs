@@ -127,7 +127,7 @@ namespace InterceptorTester.Tests.InterceptorTests
             results.WriteLine(HTTPSCalls.result.Key.ToString());
             results.WriteLine(HTTPSCalls.result.Value.ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + statusTest.getActualResult());
+			results.WriteLine ("Expected result: " + statusTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + statusTest.result ());
 			results.WriteLine ();
@@ -175,7 +175,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (statusTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + statusTest.getActualResult());
+			results.WriteLine ("Expected result: " + statusTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + statusTest.result ());
 			results.WriteLine ();
@@ -220,7 +220,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (statusTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + statusTest.getActualResult());
+			results.WriteLine ("Expected result: " + statusTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + statusTest.result ());
 			results.WriteLine ();
@@ -265,7 +265,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (statusTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + statusTest.getActualResult());
+			results.WriteLine ("Expected result: " + statusTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + statusTest.result ());
 			results.WriteLine ();
@@ -315,7 +315,7 @@ namespace InterceptorTester.Tests.InterceptorTests
             results.WriteLine(HTTPSCalls.result.Key.ToString());
             results.WriteLine(HTTPSCalls.result.Value.ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + statusTest.getActualResult());
+			results.WriteLine ("Expected result: " + statusTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + statusTest.result ());
 			results.WriteLine ();

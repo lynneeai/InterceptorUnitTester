@@ -63,7 +63,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -95,7 +95,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -126,7 +126,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -159,7 +159,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -191,7 +191,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -225,7 +225,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -262,7 +262,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -296,7 +296,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -328,7 +328,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -388,7 +388,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -421,7 +421,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -453,7 +453,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -490,7 +490,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -572,7 +572,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();
@@ -637,7 +637,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			results.WriteLine("Json posted:");
 			results.WriteLine (scanTest.getOperation().getJson().ToString());
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + scanTest.getActualResult());
+			results.WriteLine ("Expected result: " + scanTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + scanTest.result ());
 			results.WriteLine ();

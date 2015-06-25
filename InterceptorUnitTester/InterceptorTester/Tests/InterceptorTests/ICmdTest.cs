@@ -51,7 +51,7 @@ namespace InterceptorTester.Tests.InterceptorTests
             string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + icmdTest.getActualResult());
+			results.WriteLine ("Expected result: " + icmdTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + icmdTest.result ());
 			results.WriteLine ();
@@ -75,7 +75,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + icmdTest.getActualResult());
+			results.WriteLine ("Expected result: " + icmdTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + icmdTest.result ());
 			results.WriteLine ();
@@ -100,7 +100,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + icmdTest.getActualResult());
+			results.WriteLine ("Expected result: " + icmdTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + icmdTest.result ());
 			results.WriteLine ();
@@ -125,7 +125,7 @@ namespace InterceptorTester.Tests.InterceptorTests
 			string statusCode = HTTPSCalls.result.Key.Property("StatusCode").Value.ToString();
 
 			results.WriteLine ("Server: " + TestGlobals.testServer);
-			results.WriteLine ("Expected result: " + icmdTest.getActualResult());
+			results.WriteLine ("Expected result: " + icmdTest.getExpectedResult());
 			results.WriteLine ("Actual result: " + statusCode);
 			results.WriteLine ("Test result: " + icmdTest.result ());
 			results.WriteLine ();

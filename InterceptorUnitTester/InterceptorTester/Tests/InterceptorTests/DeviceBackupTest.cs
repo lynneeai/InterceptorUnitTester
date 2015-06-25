@@ -465,6 +465,39 @@ namespace InterceptorTester.Tests.InterceptorTests
 			Assert.AreEqual("201", statusCode);
 		}
 
+		[Test()]
+		public void MalformedBackupItems()
+		{
+			string[] items = new string[2];
+			items [0] = "code11";
+			items [1] = "code56";
+			DeviceBackupJSON json = new DeviceBackupJSON ();
+			json.s = 652;
+			json.b = items;
+			json.i = TestGlobals.validSerial;
+
+			DeviceBackup operation = new DeviceBackup (TestGlobals.testServer, json);
+
+			Test backupTest = new Test (operation);
+			backupTest.setTestName ("MalformedBackupItems");
+			backupTest.setExpectedResult ("400");
+			results.WriteLine (DateTime.Now);
+			results.WriteLine ("current test:" + backupTest.ToString () + " " + backupTest.getTestName ());
+
+			AsyncContext.Run (async () => await new HTTPSCalls ().runTest (backupTest, HTTPOperation.POST));
+			string statusCode = HTTPSCalls.result.Key.Property ("StatusCode").Value.ToString ();
+
+			results.WriteLine ("Json posted:");
+			results.WriteLine (operation.getJson ().ToString ());
+			results.WriteLine ("Server: " + TestGlobals.testServer);
+			results.WriteLine ("Expected result: " + backupTest.getExpectedResult ());
+			results.WriteLine ("Actual result: " + statusCode);
+			results.WriteLine ("Test result: " + backupTest.result ());
+			results.WriteLine ();
+
+			Assert.AreEqual ("400", statusCode);
+
+		}
        
 
 		//TODO: Do this in a cleaner way

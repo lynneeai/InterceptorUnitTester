@@ -1,4 +1,4 @@
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:40 PM
 current test: DeviceScan ASCIIScanCode
 Json posted:
 {
@@ -7,12 +7,12 @@ Json posted:
   "d": "!\"#&)(",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:41 PM
 current test: DeviceScan EmptySerialDyn
 Json posted:
 {
@@ -21,12 +21,12 @@ Json posted:
   "d": "~20/90210|",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:41 PM
 current test: DeviceScan EmptySerialSimple
 Json posted:
 {
@@ -35,12 +35,12 @@ Json posted:
   "d": "1289472198573",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:41 PM
 current test: DeviceScan InvalidSerialDyn
 Json posted:
 {
@@ -49,12 +49,12 @@ Json posted:
   "d": "~20/90210|",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:41 PM
 current test: DeviceScan InvalidSerialSimple
 Json posted:
 {
@@ -63,12 +63,12 @@ Json posted:
   "d": "1289472198573",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:41 PM
 current test: DeviceScan LOValidScansDyn
 Json posted:
 {
@@ -82,12 +82,12 @@ Json posted:
   "d": null,
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:41 PM
 current test: DeviceScan LOValidScansSimple
 Json posted:
 {
@@ -101,12 +101,12 @@ Json posted:
   "d": null,
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:42 PM
 current test: DeviceScan NoScanData
 Json posted:
 {
@@ -115,12 +115,12 @@ Json posted:
   "d": null,
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:42 PM
 current test: DeviceScan NullSerialDyn
 Json posted:
 {
@@ -129,12 +129,12 @@ Json posted:
   "d": "~20/90210|",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:42 PM
 current test: DeviceScan NullSerialSimple
 Json posted:
 {
@@ -143,12 +143,12 @@ Json posted:
   "d": "1289472198573",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:56 PM
+2015-07-07 3:51:42 PM
 current test: DeviceScan UTF8ScanCode
 Json posted:
 {
@@ -157,12 +157,12 @@ Json posted:
   "d": "¿ÀÁÂÆÐ123òü",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:57 PM
+2015-07-07 3:51:42 PM
 current test: DeviceScan ValidCH
 Json posted:
 {
@@ -171,12 +171,12 @@ Json posted:
   "d": "~21/*CH*055577520928",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:57 PM
+2015-07-07 3:51:43 PM
 current test: DeviceScan ValidScansSimDyn
 Json posted:
 {
@@ -190,12 +190,12 @@ Json posted:
   "d": null,
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:57 PM
+2015-07-07 3:51:43 PM
 current test: DeviceScan ValidSingleScanDyn
 Json posted:
 {
@@ -204,12 +204,12 @@ Json posted:
   "d": "~20/90210|",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:57 PM
+2015-07-07 3:51:43 PM
 current test: DeviceScan ValidSingleScanSimple
 Json posted:
 {
@@ -218,13 +218,12 @@ Json posted:
   "d": "1289472198573",
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-esult: 201
-Test result: Pass
+ result: Pass
 
 : Pass
 

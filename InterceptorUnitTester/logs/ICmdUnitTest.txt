@@ -1,32 +1,32 @@
-2015-07-07 2:49:58 PM
+2015-07-07 3:51:45 PM
 current test: iCmd BadSerial
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:59 PM
+2015-07-07 3:51:45 PM
 current test: iCmd EmptySerial
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:59 PM
+2015-07-07 3:51:45 PM
 current test: iCmd NoQuery
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 404
 Test result: Fail
 
-2015-07-07 2:49:59 PM
+2015-07-07 3:51:45 PM
 current test: iCmd ValidSerial
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 200
 Actual result: 200
 Test result: Pass
 
-: Pass
+ss
 
 9e.cloudapp.net/
 Expected result: 200

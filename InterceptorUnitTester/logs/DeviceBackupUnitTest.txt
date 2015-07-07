@@ -1,4 +1,4 @@
-2015-07-07 2:49:53 PM
+2015-07-07 3:51:18 PM
 current test: DeviceBackup BadSerial
 Json posted:
 {
@@ -25,12 +25,12 @@ Json posted:
   ],
   "s": 6
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:54 PM
+2015-07-07 3:51:36 PM
 current test: DeviceBackup EmptySerial
 Json posted:
 {
@@ -57,12 +57,12 @@ Json posted:
   ],
   "s": 6
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:54 PM
+2015-07-07 3:51:37 PM
 current test:DeviceBackup MalformedBackupItems
 Json posted:
 {
@@ -73,12 +73,12 @@ Json posted:
   ],
   "s": 652
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:54 PM
+2015-07-07 3:51:38 PM
 current test: DeviceBackup NoBackupItems
 Json posted:
 {
@@ -86,12 +86,12 @@ Json posted:
   "b": [],
   "s": 8
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:54 PM
+2015-07-07 3:51:38 PM
 current test: DeviceBackup NotSpecialDynCode
 Json posted:
 {
@@ -106,12 +106,12 @@ Json posted:
   ],
   "s": 6
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:54 PM
+2015-07-07 3:51:39 PM
 current test: DeviceBackup NullSerial
 Json posted:
 {
@@ -138,12 +138,12 @@ Json posted:
   ],
   "s": 6
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:39 PM
 current test: DeviceBackup SpecialDynCode
 Json posted:
 {
@@ -158,12 +158,12 @@ Json posted:
   ],
   "s": 6
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:39 PM
 current test: DeviceBackup ValidBackupItemSimDyn
 Json posted:
 {
@@ -184,12 +184,12 @@ Json posted:
   ],
   "s": 6
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:40 PM
 current test: DeviceBackup ValidSerial
 Json posted:
 {
@@ -216,12 +216,12 @@ Json posted:
   ],
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:49:55 PM
+2015-07-07 3:51:40 PM
 current test: DeviceBackup ValidSingleBackupItem
 Json posted:
 {
@@ -236,13 +236,12 @@ Json posted:
   ],
   "s": 4
 }
-Server: http://cozumointops.cloudapp.net/
+Server: http://cozumotesttls.cloudapp.net/
 Expected result: 201
 Actual result: 201
 Test result: Pass
 
-
-Test result: Pass
+lt: Pass
 
 ": "2015-05-11T02:04:22.295",
       "c": false

@@ -1,0 +1,291 @@
+2015-07-07 2:05:42 PM
+current test: DeviceBackup BadSerial
+Json posted:
+{
+  "i": "THISISANINVALIDSERIAL",
+  "b": [
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    },
+    {
+      "d": "534235721",
+      "s": 442,
+      "t": "2015-05-11T02:04:28.216",
+      "c": false
+    },
+    {
+      "d": "892535",
+      "s": 442,
+      "t": "2015-05-11T02:04:25.142",
+      "c": false
+    }
+  ],
+  "s": 6
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:43 PM
+current test: DeviceBackup EmptySerial
+Json posted:
+{
+  "i": "",
+  "b": [
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    },
+    {
+      "d": "534235721",
+      "s": 442,
+      "t": "2015-05-11T02:04:28.216",
+      "c": false
+    },
+    {
+      "d": "892535",
+      "s": 442,
+      "t": "2015-05-11T02:04:25.142",
+      "c": false
+    }
+  ],
+  "s": 6
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:43 PM
+current test:DeviceBackup MalformedBackupItems
+Json posted:
+{
+  "i": null,
+  "b": [
+    "code11",
+    "code56"
+  ],
+  "s": 652
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:43 PM
+current test: DeviceBackup NoBackupItems
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [],
+  "s": 8
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:43 PM
+current test: DeviceBackup NotSpecialDynCode
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    {
+      "d": "~20/12345|",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    }
+  ],
+  "s": 6
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:43 PM
+current test: DeviceBackup NullSerial
+Json posted:
+{
+  "i": null,
+  "b": [
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    },
+    {
+      "d": "534235721",
+      "s": 442,
+      "t": "2015-05-11T02:04:28.216",
+      "c": false
+    },
+    {
+      "d": "892535",
+      "s": 442,
+      "t": "2015-05-11T02:04:25.142",
+      "c": false
+    }
+  ],
+  "s": 6
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:43 PM
+current test: DeviceBackup SpecialDynCode
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    {
+      "d": "~123~status=ssid|",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    }
+  ],
+  "s": 6
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceBackup ValidBackupItemSimDyn
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    {
+      "d": "~20/12345|",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    },
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    }
+  ],
+  "s": 6
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceBackup ValidSerial
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    },
+    {
+      "d": "534235721",
+      "s": 442,
+      "t": "2015-05-11T02:04:28.216",
+      "c": false
+    },
+    {
+      "d": "892535",
+      "s": 442,
+      "t": "2015-05-11T02:04:25.142",
+      "c": false
+    }
+  ],
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceBackup ValidSingleBackupItem
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    }
+  ],
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+
+Test result: Pass
+
+": "2015-05-11T02:04:22.295",
+      "c": false
+    }
+  ],
+  "s": 4
+}
+Server: http://0827b63a525242d1b8acc7a31a71c39e.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2,
+      "t": "2015-05-11T02:04:25.142",
+      "c": false
+    }
+  ],
+  "s": 4
+}
+Server: http://cozumotesttls.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-06-09 9:34:35 AM
+current test: DeviceBackup ValidSingleBackupItem
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    {
+      "d": "12566132",
+      "s": 442,
+      "t": "2015-05-11T02:04:22.295",
+      "c": false
+    }
+  ],
+  "s": 4
+}
+Server: http://cozumotesttls.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+ult: Pass
+

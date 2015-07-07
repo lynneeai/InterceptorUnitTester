@@ -1,0 +1,27 @@
+2015-07-07 2:05:46 PM
+current test: DeviceSetting BadSerial
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:46 PM
+current test: DeviceSetting NoSerial
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:47 PM
+current test: DeviceSetting ValidSerial
+Server: http://cozumointops.cloudapp.net/
+Expected result: 200
+Actual result: 200
+Test result: Pass
+
+Pass
+
+pected result: 200
+Actual result: 200
+Test result: Pass
+

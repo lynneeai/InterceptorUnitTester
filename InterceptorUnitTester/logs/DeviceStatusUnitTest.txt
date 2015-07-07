@@ -1,0 +1,379 @@
+2015-07-07 2:05:47 PM
+current test: DeviceStatus AlertDataStore
+Json posted:
+{
+  "Ssid": "43B81B4F768D0549AB4F178022DEB384",
+  "wpaPSK": "wifipassword",
+  "intSerial": "D05FB84F1606",
+  "seqNum": "87",
+  "startURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceSetting",
+  "reportURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceStatus",
+  "scanURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceScan",
+  "bkupURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceBackup",
+  "cmdURL": "http://cozumotesttls.cloudapp.net:80/api/iCmd",
+  "capture": "1",
+  "captureMode": "1",
+  "requestTimeoutValue": "8000",
+  "callHomeTimeoutMode": "0",
+  "callHomeTimeoutData": null,
+  "dynCodeFormat": [
+    "2015-07-07T18:05:47Z///900///bypassmode"
+  ],
+  "cmdChkInt": "1",
+  "revId": "52987",
+  "errorLog": [
+    "2015-07-07T18:05:47Z///900///bypassmode"
+  ]
+}
+Server returned:
+{
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Expires",
+        "Value": [
+          "-1"
+        ]
+      },
+      {
+        "Key": "Content-Length",
+        "Value": [
+          "0"
+        ]
+      }
+    ]
+  },
+  "Headers": [
+    {
+      "Key": "Cache-Control",
+      "Value": [
+        "no-cache"
+      ]
+    },
+    {
+      "Key": "Pragma",
+      "Value": [
+        "no-cache"
+      ]
+    },
+    {
+      "Key": "Server",
+      "Value": [
+        "Microsoft-IIS/8.0"
+      ]
+    },
+    {
+      "Key": "X-AspNet-Version",
+      "Value": [
+        "4.0.30319"
+      ]
+    },
+    {
+      "Key": "X-Powered-By",
+      "Value": [
+        "ASP.NET"
+      ]
+    },
+    {
+      "Key": "Date",
+      "Value": [
+        "Tue, 07 Jul 2015 18:05:48 GMT"
+      ]
+    }
+  ],
+  "IsSuccessStatusCode": true,
+  "ReasonPhrase": "Created",
+  "RequestMessage": {
+    "Content": {
+      "Headers": [
+        {
+          "Key": "Content-Type",
+          "Value": [
+            "application/json; charset=utf-8"
+          ]
+        }
+      ]
+    },
+    "Headers": [
+      {
+        "Key": "Accept",
+        "Value": [
+          "application/json"
+        ]
+      }
+    ],
+    "Method": {
+      "Method": "POST"
+    },
+    "Properties": {},
+    "RequestUri": "http://cozumointops.cloudapp.net/api/DeviceStatus/",
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Build": -1,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  "StatusCode": 201,
+  "Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Build": -1,
+    "Revision": -1,
+    "MajorRevision": -1,
+    "MinorRevision": -1
+  }
+}
+
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:47 PM
+current test: DeviceStatus EmptySerial
+Json posted:
+{
+  "Ssid": null,
+  "wpaPSK": null,
+  "intSerial": null,
+  "seqNum": "87",
+  "startURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceSetting",
+  "reportURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceStatus",
+  "scanURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceScan",
+  "bkupURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceBackup",
+  "cmdURL": "http://cozumotesttls.cloudapp.net:80/api/iCmd",
+  "capture": "1",
+  "captureMode": "1",
+  "requestTimeoutValue": "8000",
+  "callHomeTimeoutMode": "0",
+  "callHomeTimeoutData": "",
+  "dynCodeFormat": null,
+  "cmdChkInt": "1",
+  "revId": "52987",
+  "errorLog": [
+    "asdf",
+    "wasd",
+    "qwerty"
+  ]
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:47 PM
+current test: DeviceStatus BadSerial
+Json posted:
+{
+  "Ssid": null,
+  "wpaPSK": null,
+  "intSerial": "THISISANINVALIDSERIAL",
+  "seqNum": "87",
+  "startURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceSetting",
+  "reportURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceStatus",
+  "scanURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceScan",
+  "bkupURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceBackup",
+  "cmdURL": "http://cozumotesttls.cloudapp.net:80/api/iCmd",
+  "capture": "1",
+  "captureMode": "1",
+  "requestTimeoutValue": "8000",
+  "callHomeTimeoutMode": "0",
+  "callHomeTimeoutData": null,
+  "dynCodeFormat": null,
+  "cmdChkInt": "1",
+  "revId": "52987",
+  "errorLog": [
+    "asdf",
+    "wasd",
+    "qwerty"
+  ]
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:47 PM
+current test: DeviceStatus NullSerial
+Json posted:
+{
+  "Ssid": null,
+  "wpaPSK": null,
+  "intSerial": null,
+  "seqNum": "87",
+  "startURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceSetting",
+  "reportURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceStatus",
+  "scanURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceScan",
+  "bkupURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceBackup",
+  "cmdURL": "http://cozumotesttls.cloudapp.net:80/api/iCmd",
+  "capture": "1",
+  "captureMode": "1",
+  "requestTimeoutValue": "8000",
+  "callHomeTimeoutMode": "0",
+  "callHomeTimeoutData": null,
+  "dynCodeFormat": null,
+  "cmdChkInt": "1",
+  "revId": "52987",
+  "errorLog": [
+    "asdf",
+    "wasd",
+    "qwerty"
+  ]
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:47 PM
+current test: DeviceStatus ValidSerial
+Json posted:
+{
+  "Ssid": "43B81B4F768D0549AB4F178022DEB384",
+  "wpaPSK": "wifipassword",
+  "intSerial": "D05FB84F1606",
+  "seqNum": "87",
+  "startURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceSetting",
+  "reportURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceStatus",
+  "scanURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceScan",
+  "bkupURL": "http://cozumotesttls.cloudapp.net:80/api/DeviceBackup",
+  "cmdURL": "http://cozumotesttls.cloudapp.net:80/api/iCmd",
+  "capture": "1",
+  "captureMode": "1",
+  "requestTimeoutValue": "8000",
+  "callHomeTimeoutMode": "0",
+  "callHomeTimeoutData": "",
+  "dynCodeFormat": [
+    "2015-07-07T18:05:47Z///200///pleasework",
+    "2015-07-07T18:05:47Z///200///pleasework",
+    "2015-07-07T18:05:47Z///200///pleasework"
+  ],
+  "cmdChkInt": "1",
+  "revId": "52987",
+  "errorLog": [
+    "2015-07-07T18:05:47Z///200///pleasework",
+    "2015-07-07T18:05:47Z///200///pleasework",
+    "2015-07-07T18:05:47Z///200///pleasework"
+  ]
+}
+Server returned:
+{
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Expires",
+        "Value": [
+          "-1"
+        ]
+      },
+      {
+        "Key": "Content-Length",
+        "Value": [
+          "0"
+        ]
+      }
+    ]
+  },
+  "Headers": [
+    {
+      "Key": "Cache-Control",
+      "Value": [
+        "no-cache"
+      ]
+    },
+    {
+      "Key": "Pragma",
+      "Value": [
+        "no-cache"
+      ]
+    },
+    {
+      "Key": "Server",
+      "Value": [
+        "Microsoft-IIS/8.0"
+      ]
+    },
+    {
+      "Key": "X-AspNet-Version",
+      "Value": [
+        "4.0.30319"
+      ]
+    },
+    {
+      "Key": "X-Powered-By",
+      "Value": [
+        "ASP.NET"
+      ]
+    },
+    {
+      "Key": "Date",
+      "Value": [
+        "Tue, 07 Jul 2015 18:05:48 GMT"
+      ]
+    }
+  ],
+  "IsSuccessStatusCode": true,
+  "ReasonPhrase": "Created",
+  "RequestMessage": {
+    "Content": {
+      "Headers": [
+        {
+          "Key": "Content-Type",
+          "Value": [
+            "application/json; charset=utf-8"
+          ]
+        }
+      ]
+    },
+    "Headers": [
+      {
+        "Key": "Accept",
+        "Value": [
+          "application/json"
+        ]
+      }
+    ],
+    "Method": {
+      "Method": "POST"
+    },
+    "Properties": {},
+    "RequestUri": "http://cozumointops.cloudapp.net/api/DeviceStatus/",
+    "Version": {
+      "Major": 1,
+      "Minor": 1,
+      "Build": -1,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    }
+  },
+  "StatusCode": 201,
+  "Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Build": -1,
+    "Revision": -1,
+    "MajorRevision": -1,
+    "MinorRevision": -1
+  }
+}
+
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+sult: Pass
+
+: -1
+  }
+}
+
+Server: http://0827b63a525242d1b8acc7a31a71c39e.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+

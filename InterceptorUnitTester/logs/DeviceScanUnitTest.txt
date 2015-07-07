@@ -1,0 +1,244 @@
+2015-07-07 2:05:44 PM
+current test: DeviceScan ASCIIScanCode
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": "!\"#&)(",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceScan EmptySerialDyn
+Json posted:
+{
+  "i": "",
+  "b": null,
+  "d": "~20/90210|",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceScan EmptySerialSimple
+Json posted:
+{
+  "i": "",
+  "b": null,
+  "d": "1289472198573",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceScan InvalidSerialDyn
+Json posted:
+{
+  "i": "THISISANINVALIDSERIAL",
+  "b": null,
+  "d": "~20/90210|",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:44 PM
+current test: DeviceScan InvalidSerialSimple
+Json posted:
+{
+  "i": "BAD SERIAL",
+  "b": null,
+  "d": "1289472198573",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan LOValidScansDyn
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    "~20/0|",
+    "~20/1|",
+    "~20/2|",
+    "~20/3|"
+  ],
+  "d": null,
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan LOValidScansSimple
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "d": null,
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan NoScanData
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": null,
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan NullSerialDyn
+Json posted:
+{
+  "i": null,
+  "b": null,
+  "d": "~20/90210|",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan NullSerialSimple
+Json posted:
+{
+  "i": null,
+  "b": null,
+  "d": "1289472198573",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 400
+Actual result: 400
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan UTF8ScanCode
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": "¿ÀÁÂÆÐ123òü",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:45 PM
+current test: DeviceScan ValidCH
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": "~21/*CH*055577520928",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:46 PM
+current test: DeviceScan ValidScansSimDyn
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": [
+    "~20/0|",
+    "123456789",
+    "~20/2|",
+    "987654321"
+  ],
+  "d": null,
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:46 PM
+current test: DeviceScan ValidSingleScanDyn
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": "~20/90210|",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+2015-07-07 2:05:46 PM
+current test: DeviceScan ValidSingleScanSimple
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": "1289472198573",
+  "s": 4
+}
+Server: http://cozumointops.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+
+esult: 201
+Test result: Pass
+
+: Pass
+
+2015-06-26 11:56:05 AM
+current test: DeviceScan ValidSingleScanSimple
+Json posted:
+{
+  "i": "D05FB84F1606",
+  "b": null,
+  "d": "1289472198573",
+  "s": 4
+}
+Server: http://0827b63a525242d1b8acc7a31a71c39e.cloudapp.net/
+Expected result: 201
+Actual result: 201
+Test result: Pass
+

@@ -1,0 +1,5792 @@
+2015-06-09 09:58:34.585981
+Posting Scan
+2015-06-09 09:58:34.586118
+Scan posted:
+2015-06-09 09:58:42.469217
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 1
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 09:58:46.473510
+Scan posted:
+2015-06-09 09:58:46.659177
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 2
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 09:58:50.661605
+Scan posted:
+2015-06-09 09:58:50.812876
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 3
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 09:58:54.815265
+Scan posted:
+2015-06-09 09:58:54.959810
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 4
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 09:58:58.964353
+Scan posted:
+2015-06-09 09:58:59.162531
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 5
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 09:59:03.166285
+Scan posted:
+2015-06-09 09:59:03.329354
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 6
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 1
+Total scans: 6
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 09:59:07.329559
+Test has lasted for 00:00:32.7523190
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:00:07.433760
+Posting Scan
+2015-06-09 10:00:07.433959
+Scan posted:
+2015-06-09 10:00:07.588336
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 7
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 2
+Total scans: 7
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:00:11.590094
+Test has lasted for 00:01:37.0128720
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:01:11.592615
+Posting Scan
+2015-06-09 10:01:11.592713
+Scan posted:
+2015-06-09 10:01:11.877497
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 8
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:01:15.879533
+Scan posted:
+2015-06-09 10:01:16.063606
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 9
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:01:20.067502
+Scan posted:
+2015-06-09 10:01:20.272018
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 10
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 3
+Total scans: 10
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:01:24.275053
+Test has lasted for 00:02:49.6978370
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:02:24.279297
+Posting Scan
+2015-06-09 10:02:24.279396
+Scan posted:
+2015-06-09 10:02:24.448148
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 11
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:02:28.452618
+Scan posted:
+2015-06-09 10:02:28.597639
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 12
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:02:32.598780
+Scan posted:
+2015-06-09 10:02:32.760215
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 13
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 4
+Total scans: 13
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:02:36.761526
+Test has lasted for 00:04:02.1843030
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:03:36.765681
+Posting Scan
+2015-06-09 10:03:36.765784
+Scan posted:
+2015-06-09 10:03:36.908684
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 14
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:03:40.914058
+Scan posted:
+2015-06-09 10:03:41.111426
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 15
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 5
+Total scans: 15
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:03:45.114526
+Test has lasted for 00:05:10.5373340
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:04:45.116464
+Posting Scan
+2015-06-09 10:04:45.116565
+Scan posted:
+2015-06-09 10:04:45.360370
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 23
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 6
+Total scans: 16
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:04:49.365435
+Test has lasted for 00:06:14.7882380
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:05:49.366519
+Posting Scan
+2015-06-09 10:05:49.366614
+Scan posted:
+2015-06-09 10:05:49.623168
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 17
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:05:53.624112
+Scan posted:
+2015-06-09 10:05:53.795491
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 18
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:05:57.799311
+Scan posted:
+2015-06-09 10:05:57.954538
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 19
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:06:01.955533
+Scan posted:
+2015-06-09 10:06:02.142986
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 20
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:06:06.146855
+Scan posted:
+2015-06-09 10:06:06.420092
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 21
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:06:10.422306
+Scan posted:
+2015-06-09 10:06:10.593434
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 22
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:06:14.598694
+Scan posted:
+2015-06-09 10:06:14.753949
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 23
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 7
+Total scans: 23
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:06:18.754001
+Test has lasted for 00:07:44.1767280
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:07:18.757767
+Posting Scan
+2015-06-09 10:07:18.757867
+Scan posted:
+2015-06-09 10:07:18.931753
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 24
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:07:22.932331
+Scan posted:
+2015-06-09 10:07:23.061689
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 25
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 8
+Total scans: 25
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:07:27.065688
+Test has lasted for 00:08:52.4884920
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:08:27.069940
+Posting Scan
+2015-06-09 10:08:27.070036
+Scan posted:
+2015-06-09 10:08:27.805616
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 26
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:08:31.805860
+Scan posted:
+2015-06-09 10:08:33.113081
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 27
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:08:37.115958
+Scan posted:
+2015-06-09 10:08:37.328435
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 28
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 9
+Total scans: 28
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:08:41.333100
+Test has lasted for 00:10:06.7561790
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:09:41.334705
+Posting Scan
+2015-06-09 10:09:41.334796
+Scan posted:
+2015-06-09 10:09:42.592112
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 29
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:09:46.596606
+Scan posted:
+2015-06-09 10:09:46.755574
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 30
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:09:50.758783
+Scan posted:
+2015-06-09 10:09:50.938351
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 31
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 10
+Total scans: 31
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:09:54.939301
+Test has lasted for 00:11:20.3620820
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:10:54.941515
+Posting Scan
+2015-06-09 10:10:54.941611
+Scan posted:
+2015-06-09 10:10:55.205820
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 39
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 11
+Total scans: 32
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:10:59.205791
+Test has lasted for 00:12:24.6285470
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:11:59.207557
+Posting Scan
+2015-06-09 10:11:59.207702
+Scan posted:
+2015-06-09 10:11:59.447903
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 33
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:12:03.450043
+Scan posted:
+2015-06-09 10:12:03.799844
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 34
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 12
+Total scans: 34
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:12:07.801889
+Test has lasted for 00:13:33.2246630
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:13:07.803646
+Posting Scan
+2015-06-09 10:13:07.803694
+Scan posted:
+2015-06-09 10:13:09.704880
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 35
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:13:13.707060
+Scan posted:
+2015-06-09 10:13:14.296079
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 36
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:13:18.296871
+Scan posted:
+2015-06-09 10:13:18.810067
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 37
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 13
+Total scans: 37
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:13:22.811460
+Test has lasted for 00:14:48.2341720
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:14:22.812004
+Posting Scan
+2015-06-09 10:14:22.812153
+Scan posted:
+2015-06-09 10:14:23.698697
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 38
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:14:27.698855
+Scan posted:
+2015-06-09 10:14:27.861369
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 39
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:14:31.864405
+Scan posted:
+2015-06-09 10:14:32.038219
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 40
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 14
+Total scans: 40
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:14:36.039676
+Test has lasted for 00:16:01.4624610
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:15:36.042335
+Posting Scan
+2015-06-09 10:15:36.042392
+Scan posted:
+2015-06-09 10:15:36.781173
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 41
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 15
+Total scans: 41
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:15:40.781312
+Test has lasted for 00:17:06.2040300
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:16:40.780885
+Posting Scan
+2015-06-09 10:16:40.781123
+Scan posted:
+2015-06-09 10:16:41.451867
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 42
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:16:45.455760
+Scan posted:
+2015-06-09 10:16:45.614870
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 43
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:16:49.616087
+Scan posted:
+2015-06-09 10:16:49.801382
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 44
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 16
+Total scans: 44
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:16:53.805385
+Test has lasted for 00:18:19.2282490
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:17:53.808088
+Posting Scan
+2015-06-09 10:17:53.808146
+Scan posted:
+2015-06-09 10:17:54.005071
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 45
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:17:58.008167
+Scan posted:
+2015-06-09 10:17:58.196210
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 46
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:18:02.198800
+Scan posted:
+2015-06-09 10:18:02.386261
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 47
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 17
+Total scans: 47
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:18:06.392473
+Test has lasted for 00:19:31.8153520
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:19:06.391712
+Posting Scan
+2015-06-09 10:19:06.391773
+Scan posted:
+2015-06-09 10:19:06.552459
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 48
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:19:10.557172
+Scan posted:
+2015-06-09 10:19:10.752711
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 49
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 18
+Total scans: 49
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:19:14.754852
+Test has lasted for 00:20:40.1776100
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:20:14.759057
+Posting Scan
+2015-06-09 10:20:14.759273
+Scan posted:
+2015-06-09 10:20:15.074381
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 50
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:20:19.079651
+Scan posted:
+2015-06-09 10:20:19.282358
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 51
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:20:23.287655
+Scan posted:
+2015-06-09 10:20:23.518364
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 52
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:20:27.521192
+Scan posted:
+2015-06-09 10:20:27.698678
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 53
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:20:31.702082
+Scan posted:
+2015-06-09 10:20:31.879488
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 54
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:20:35.883919
+Scan posted:
+2015-06-09 10:20:36.073080
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 55
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:20:40.075364
+Scan posted:
+2015-06-09 10:20:40.251380
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 56
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 19
+Total scans: 56
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:20:44.253324
+Test has lasted for 00:22:09.6760770
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:21:44.256258
+Posting Scan
+2015-06-09 10:21:44.256484
+Scan posted:
+2015-06-09 10:21:44.416080
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 57
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:21:48.418510
+Scan posted:
+2015-06-09 10:21:48.585110
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 58
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:21:52.586863
+Scan posted:
+2015-06-09 10:21:52.732174
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 59
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:21:56.732462
+Scan posted:
+2015-06-09 10:21:57.049655
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 60
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:22:01.054625
+Scan posted:
+2015-06-09 10:22:01.228741
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 61
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:22:05.230753
+Scan posted:
+2015-06-09 10:22:05.446484
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 62
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 20
+Total scans: 62
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:22:09.447119
+Test has lasted for 00:23:34.8698660
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:23:09.446893
+Posting Scan
+2015-06-09 10:23:09.447085
+Scan posted:
+2015-06-09 10:23:09.643509
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 63
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:23:13.647597
+Scan posted:
+2015-06-09 10:23:13.850999
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 64
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 21
+Total scans: 64
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:23:17.853674
+Test has lasted for 00:24:43.2764640
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:24:17.856350
+Posting Scan
+2015-06-09 10:24:17.856439
+Scan posted:
+2015-06-09 10:24:18.041936
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 72
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 22
+Total scans: 65
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:24:22.043932
+Test has lasted for 00:25:47.4666610
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:25:22.043759
+Posting Scan
+2015-06-09 10:25:22.043825
+Scan posted:
+2015-06-09 10:25:22.221044
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 66
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:25:26.223483
+Scan posted:
+2015-06-09 10:25:26.398381
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 67
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:25:30.401128
+Scan posted:
+2015-06-09 10:25:30.542122
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 68
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:25:34.544151
+Scan posted:
+2015-06-09 10:25:34.817705
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 69
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:25:38.820719
+Scan posted:
+2015-06-09 10:25:38.965958
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 70
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:25:42.966980
+Scan posted:
+2015-06-09 10:25:43.140605
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 71
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:25:47.144846
+Scan posted:
+2015-06-09 10:25:47.507291
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 72
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 23
+Total scans: 72
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:25:51.509902
+Test has lasted for 00:27:16.9328350
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:26:51.511030
+Posting Scan
+2015-06-09 10:26:51.511139
+Scan posted:
+2015-06-09 10:26:51.693692
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 73
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:26:55.698952
+Scan posted:
+2015-06-09 10:26:55.978277
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 74
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 24
+Total scans: 74
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:26:59.982025
+Test has lasted for 00:28:25.4048760
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:27:59.985010
+Posting Scan
+2015-06-09 10:27:59.985112
+Scan posted:
+2015-06-09 10:28:01.032553
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 75
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:28:05.037882
+Scan posted:
+2015-06-09 10:28:05.214187
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 76
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:28:09.218987
+Scan posted:
+2015-06-09 10:28:09.387686
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 77
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 25
+Total scans: 77
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:28:13.390202
+Test has lasted for 00:29:38.8130090
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:29:13.390554
+Posting Scan
+2015-06-09 10:29:13.390649
+Scan posted:
+2015-06-09 10:29:13.595177
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 78
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:29:17.598267
+Scan posted:
+2015-06-09 10:29:17.748244
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 79
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:29:21.753554
+Scan posted:
+2015-06-09 10:29:21.964464
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 80
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:29:25.967535
+Scan posted:
+2015-06-09 10:29:26.184641
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 81
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:29:30.186202
+Scan posted:
+2015-06-09 10:29:30.331103
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 82
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:29:34.331927
+Scan posted:
+2015-06-09 10:29:34.540412
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 83
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 26
+Total scans: 83
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:29:38.543582
+Test has lasted for 00:31:03.9664410
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:30:38.547802
+Posting Scan
+2015-06-09 10:30:38.547905
+Scan posted:
+2015-06-09 10:30:38.790292
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 84
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 27
+Total scans: 84
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:30:42.792762
+Test has lasted for 00:32:08.2155120
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:31:42.792630
+Posting Scan
+2015-06-09 10:31:42.792696
+Scan posted:
+2015-06-09 10:31:43.055515
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 85
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:31:47.060378
+Scan posted:
+2015-06-09 10:31:47.323535
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 86
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:31:51.326382
+Scan posted:
+2015-06-09 10:31:51.498278
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 87
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 28
+Total scans: 87
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:31:55.499276
+Test has lasted for 00:33:20.9220020
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:32:55.498609
+Posting Scan
+2015-06-09 10:32:55.498719
+Scan posted:
+2015-06-09 10:32:55.677874
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 88
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:32:59.680136
+Scan posted:
+2015-06-09 10:33:00.071556
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 89
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:33:04.073499
+Scan posted:
+2015-06-09 10:33:04.269244
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 90
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 29
+Total scans: 90
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:33:08.269346
+Test has lasted for 00:34:33.6920870
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:34:08.269862
+Posting Scan
+2015-06-09 10:34:08.270104
+Scan posted:
+2015-06-09 10:34:08.511114
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 91
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:34:12.515219
+Scan posted:
+2015-06-09 10:34:12.682563
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 92
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:34:16.687760
+Scan posted:
+2015-06-09 10:34:16.913544
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 93
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 30
+Total scans: 93
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:34:20.918381
+Test has lasted for 00:35:46.3411450
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:35:20.917608
+Posting Scan
+2015-06-09 10:35:20.917710
+Scan posted:
+2015-06-09 10:35:21.108036
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 94
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:35:25.108987
+Scan posted:
+2015-06-09 10:35:25.271069
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 95
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:35:29.273643
+Scan posted:
+2015-06-09 10:35:29.457463
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 96
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:35:33.462737
+Scan posted:
+2015-06-09 10:35:33.647628
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 97
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:35:37.649765
+Scan posted:
+2015-06-09 10:35:37.802644
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 98
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:35:41.802833
+Scan posted:
+2015-06-09 10:35:42.058848
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 99
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 31
+Total scans: 99
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:35:46.062939
+Test has lasted for 00:37:11.4857460
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:37:46.060565
+Posting Scan
+2015-06-09 10:37:46.060661
+Scan posted:
+2015-06-09 10:37:51.146776
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 100
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 32
+Total scans: 100
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:37:55.150271
+Test has lasted for 00:39:20.5730690
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:39:55.149591
+Posting Scan
+2015-06-09 10:39:55.149798
+Scan posted:
+2015-06-09 10:39:55.343630
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 101
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:39:59.343945
+Scan posted:
+2015-06-09 10:39:59.549147
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 102
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:40:03.551151
+Scan posted:
+2015-06-09 10:40:03.743114
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 103
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 33
+Total scans: 103
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:40:07.748220
+Test has lasted for 00:41:33.1710360
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:42:07.751311
+Posting Scan
+2015-06-09 10:42:07.751507
+Scan posted:
+2015-06-09 10:42:07.927255
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 104
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:42:11.932286
+Scan posted:
+2015-06-09 10:42:12.163005
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 105
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:42:16.163162
+Scan posted:
+2015-06-09 10:42:16.323966
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 106
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 34
+Total scans: 106
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:42:20.326051
+Test has lasted for 00:43:45.7487940
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:44:20.324735
+Posting Scan
+2015-06-09 10:44:20.324829
+Scan posted:
+2015-06-09 10:44:20.557429
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 107
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:44:24.557777
+Scan posted:
+2015-06-09 10:44:24.727095
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 108
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 35
+Total scans: 108
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:44:28.728542
+Test has lasted for 00:45:54.1513210
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:46:28.728610
+Posting Scan
+2015-06-09 10:46:28.728795
+Scan posted:
+2015-06-09 10:46:29.899588
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 116
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 36
+Total scans: 109
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:46:33.903311
+Test has lasted for 00:47:59.3260960
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:48:33.902239
+Posting Scan
+2015-06-09 10:48:33.902323
+Scan posted:
+2015-06-09 10:48:34.192851
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 110
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:48:38.198120
+Scan posted:
+2015-06-09 10:48:39.037695
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 111
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:48:43.042956
+Scan posted:
+2015-06-09 10:48:43.224197
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 112
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:48:47.229411
+Scan posted:
+2015-06-09 10:48:47.382664
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 113
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:48:51.386858
+Scan posted:
+2015-06-09 10:48:51.606636
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 114
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:48:55.608572
+Scan posted:
+2015-06-09 10:48:56.013486
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 115
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:49:00.014669
+Scan posted:
+2015-06-09 10:49:01.143450
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 116
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 37
+Total scans: 116
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:49:05.143836
+Test has lasted for 00:50:30.5665760
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:51:05.142123
+Posting Scan
+2015-06-09 10:51:05.142225
+Scan posted:
+2015-06-09 10:51:05.288892
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 117
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:51:09.290135
+Scan posted:
+2015-06-09 10:51:09.454219
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 118
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 38
+Total scans: 118
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:51:13.458553
+Test has lasted for 00:52:38.8813340
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:53:13.457194
+Posting Scan
+2015-06-09 10:53:13.457257
+Scan posted:
+2015-06-09 10:53:13.598681
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 119
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:53:17.599185
+Scan posted:
+2015-06-09 10:53:17.786963
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 120
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:53:21.788156
+Scan posted:
+2015-06-09 10:53:21.945996
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 121
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 39
+Total scans: 121
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:53:25.947129
+Test has lasted for 00:54:51.3700000
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:55:25.945586
+Posting Scan
+2015-06-09 10:55:25.945644
+Scan posted:
+2015-06-09 10:55:26.191852
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 122
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:55:30.195815
+Scan posted:
+2015-06-09 10:55:30.357601
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 123
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:55:34.360660
+Scan posted:
+2015-06-09 10:55:34.522633
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 124
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 40
+Total scans: 124
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:55:38.526578
+Test has lasted for 00:57:03.9493840
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:57:38.524805
+Posting Scan
+2015-06-09 10:57:38.525022
+Scan posted:
+2015-06-09 10:57:38.703303
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 132
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 41
+Total scans: 125
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:57:42.703628
+Test has lasted for 00:59:08.1263810
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 10:59:42.705954
+Posting Scan
+2015-06-09 10:59:42.706049
+Scan posted:
+2015-06-09 10:59:42.973399
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 126
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 10:59:46.974228
+Scan posted:
+2015-06-09 10:59:47.119312
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 127
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 42
+Total scans: 127
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 10:59:51.120261
+Test has lasted for 01:01:16.5430370
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:01:51.120766
+Posting Scan
+2015-06-09 11:01:51.120862
+Scan posted:
+2015-06-09 11:01:51.376703
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 128
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:01:55.381330
+Scan posted:
+2015-06-09 11:01:55.531807
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 129
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:01:59.536528
+Scan posted:
+2015-06-09 11:01:59.691573
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 130
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 43
+Total scans: 130
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:02:03.694070
+Test has lasted for 01:03:29.1167920
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:04:03.693714
+Posting Scan
+2015-06-09 11:04:03.693778
+Scan posted:
+2015-06-09 11:04:03.846607
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 131
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:04:07.847251
+Scan posted:
+2015-06-09 11:04:07.997470
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 132
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:04:11.999514
+Scan posted:
+2015-06-09 11:04:12.203852
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 133
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 44
+Total scans: 133
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:04:16.208082
+Test has lasted for 01:05:41.6308640
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:06:16.206507
+Posting Scan
+2015-06-09 11:06:16.206614
+Scan posted:
+2015-06-09 11:06:16.454844
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 134
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 45
+Total scans: 134
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:06:20.459099
+Test has lasted for 01:07:45.8819220
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:08:20.457030
+Posting Scan
+2015-06-09 11:08:20.457093
+Scan posted:
+2015-06-09 11:08:20.667546
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 135
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:08:24.667716
+Scan posted:
+2015-06-09 11:08:24.880056
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 136
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:08:28.883741
+Scan posted:
+2015-06-09 11:08:29.052852
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 137
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 46
+Total scans: 137
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:08:33.053447
+Test has lasted for 01:09:58.4763100
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:10:33.055699
+Posting Scan
+2015-06-09 11:10:33.055820
+Scan posted:
+2015-06-09 11:10:33.386905
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 138
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:10:37.387453
+Scan posted:
+2015-06-09 11:10:37.725541
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 139
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:10:41.730767
+Scan posted:
+2015-06-09 11:10:44.028488
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 140
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 47
+Total scans: 140
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:10:48.029134
+Test has lasted for 01:12:13.4518750
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:12:48.027266
+Posting Scan
+2015-06-09 11:12:48.027322
+Scan posted:
+2015-06-09 11:12:48.193835
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 141
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:12:52.199170
+Scan posted:
+2015-06-09 11:12:52.485691
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 142
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 48
+Total scans: 142
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:12:56.490157
+Test has lasted for 01:14:21.9129680
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:14:56.488557
+Posting Scan
+2015-06-09 11:14:56.488604
+Scan posted:
+2015-06-09 11:14:56.646135
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 143
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:15:00.650992
+Scan posted:
+2015-06-09 11:15:00.790275
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 144
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:15:04.795067
+Scan posted:
+2015-06-09 11:15:04.953454
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 145
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:15:08.954603
+Scan posted:
+2015-06-09 11:15:09.112679
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 146
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:15:13.118048
+Scan posted:
+2015-06-09 11:15:13.269812
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 147
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:15:17.273435
+Scan posted:
+2015-06-09 11:15:17.419083
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 148
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:15:21.423427
+Scan posted:
+2015-06-09 11:15:21.570520
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 149
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 49
+Total scans: 149
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:15:25.573019
+Test has lasted for 01:16:50.9959120
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:17:25.680928
+Posting Scan
+2015-06-09 11:17:25.680987
+Scan posted:
+2015-06-09 11:17:25.931345
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 150
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:17:29.936289
+Scan posted:
+2015-06-09 11:17:30.102172
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 151
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:17:34.103092
+Scan posted:
+2015-06-09 11:17:34.241048
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 152
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:17:38.242291
+Scan posted:
+2015-06-09 11:17:38.392332
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 153
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:17:42.392866
+Scan posted:
+2015-06-09 11:17:42.522291
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 154
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:17:46.524359
+Scan posted:
+2015-06-09 11:17:46.669151
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 155
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 50
+Total scans: 155
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:17:50.670494
+Test has lasted for 01:19:16.0932390
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:19:50.671066
+Posting Scan
+2015-06-09 11:19:50.671162
+Scan posted:
+2015-06-09 11:19:50.848601
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 156
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:19:54.850464
+Scan posted:
+2015-06-09 11:19:55.026199
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 157
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 51
+Total scans: 157
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:19:59.026492
+Test has lasted for 01:21:24.4492520
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:21:59.025462
+Posting Scan
+2015-06-09 11:21:59.025564
+Scan posted:
+2015-06-09 11:21:59.211479
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 165
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 52
+Total scans: 158
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:22:03.216199
+Test has lasted for 01:23:28.6389420
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:24:03.215549
+Posting Scan
+2015-06-09 11:24:03.215799
+Scan posted:
+2015-06-09 11:24:03.430418
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 159
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:24:07.430711
+Scan posted:
+2015-06-09 11:24:07.580369
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 160
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:24:11.583042
+Scan posted:
+2015-06-09 11:24:11.832097
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 161
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:24:15.836855
+Scan posted:
+2015-06-09 11:24:15.998285
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 162
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:24:19.999697
+Scan posted:
+2015-06-09 11:24:20.147119
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 163
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:24:24.149283
+Scan posted:
+2015-06-09 11:24:24.302852
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 164
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:24:28.303050
+Scan posted:
+2015-06-09 11:24:28.456911
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 165
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 53
+Total scans: 165
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:24:32.457626
+Test has lasted for 01:25:57.8803510
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:26:32.455076
+Posting Scan
+2015-06-09 11:26:32.455128
+Scan posted:
+2015-06-09 11:26:32.619735
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 166
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:26:36.620869
+Scan posted:
+2015-06-09 11:26:36.778956
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 167
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 54
+Total scans: 167
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:26:40.778977
+Test has lasted for 01:28:06.2017000
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:28:40.777287
+Posting Scan
+2015-06-09 11:28:40.777384
+Scan posted:
+2015-06-09 11:28:40.981459
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 168
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:28:44.983529
+Scan posted:
+2015-06-09 11:28:45.172683
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 169
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:28:49.173560
+Scan posted:
+2015-06-09 11:28:49.327389
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 170
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 55
+Total scans: 170
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:28:53.328996
+Test has lasted for 01:30:18.7517760
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:30:53.326399
+Posting Scan
+2015-06-09 11:30:53.326472
+Scan posted:
+2015-06-09 11:30:53.471405
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 171
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:30:57.474590
+Scan posted:
+2015-06-09 11:30:57.631439
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 172
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:31:01.636729
+Scan posted:
+2015-06-09 11:31:01.792815
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 173
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:31:05.796816
+Scan posted:
+2015-06-09 11:31:05.959799
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 174
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:31:09.963935
+Scan posted:
+2015-06-09 11:31:10.106257
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 175
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:31:14.109023
+Scan posted:
+2015-06-09 11:31:14.640007
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 176
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 56
+Total scans: 176
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:31:18.640458
+Test has lasted for 01:32:44.0632350
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:33:18.640985
+Posting Scan
+2015-06-09 11:33:18.641088
+Scan posted:
+2015-06-09 11:33:18.794336
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 177
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 57
+Total scans: 177
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:33:22.794579
+Test has lasted for 01:34:48.2174110
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:35:22.796777
+Posting Scan
+2015-06-09 11:35:22.796877
+Scan posted:
+2015-06-09 11:35:23.028067
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 178
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:35:27.028463
+Scan posted:
+2015-06-09 11:35:27.201935
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 179
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:35:31.206407
+Scan posted:
+2015-06-09 11:35:31.378872
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 180
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 58
+Total scans: 180
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:35:35.383859
+Test has lasted for 01:37:00.8066370
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:37:35.384110
+Posting Scan
+2015-06-09 11:37:35.384261
+Scan posted:
+2015-06-09 11:37:35.627994
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 181
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:37:39.633261
+Scan posted:
+2015-06-09 11:37:39.789827
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 182
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:37:43.791876
+Scan posted:
+2015-06-09 11:37:43.943472
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 183
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 59
+Total scans: 183
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:37:47.947256
+Test has lasted for 01:39:13.3700330
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:39:47.947780
+Posting Scan
+2015-06-09 11:39:47.947900
+Scan posted:
+2015-06-09 11:39:48.165276
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 184
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:39:52.167027
+Scan posted:
+2015-06-09 11:39:52.383559
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 185
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:39:56.388262
+Scan posted:
+2015-06-09 11:39:56.558256
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 186
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 60
+Total scans: 186
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:40:00.558423
+Test has lasted for 01:41:25.9813250
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:42:00.558549
+Posting Scan
+2015-06-09 11:42:00.558880
+Scan posted:
+2015-06-09 11:42:00.753095
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 187
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:42:04.753745
+Scan posted:
+2015-06-09 11:42:05.033435
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 188
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:42:09.036467
+Scan posted:
+2015-06-09 11:42:09.302090
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 189
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:42:13.304104
+Scan posted:
+2015-06-09 11:42:13.497680
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 190
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:42:17.502943
+Scan posted:
+2015-06-09 11:42:17.665980
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 191
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:42:21.667603
+Scan posted:
+2015-06-09 11:42:21.852414
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 192
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 61
+Total scans: 192
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:42:25.852864
+Test has lasted for 01:43:51.2756700
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:46:25.850572
+Posting Scan
+2015-06-09 11:46:25.850628
+Scan posted:
+2015-06-09 11:46:26.006349
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 193
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 62
+Total scans: 193
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:46:30.007420
+Test has lasted for 01:47:55.4302250
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:50:30.006989
+Posting Scan
+2015-06-09 11:50:30.007189
+Scan posted:
+2015-06-09 11:50:30.157744
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 194
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:50:34.158003
+Scan posted:
+2015-06-09 11:50:34.311321
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 195
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:50:38.315999
+Scan posted:
+2015-06-09 11:50:38.505700
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 196
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 63
+Total scans: 196
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:50:42.508075
+Test has lasted for 01:52:07.9308410
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:54:42.506823
+Posting Scan
+2015-06-09 11:54:42.506925
+Scan posted:
+2015-06-09 11:54:42.740160
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 197
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:54:46.742059
+Scan posted:
+2015-06-09 11:54:46.898227
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 198
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:54:50.903485
+Scan posted:
+2015-06-09 11:54:51.062694
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 199
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 64
+Total scans: 199
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:54:55.067741
+Test has lasted for 01:56:20.4905240
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 11:58:55.066309
+Posting Scan
+2015-06-09 11:58:55.066425
+Scan posted:
+2015-06-09 11:58:55.220578
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 200
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 11:58:59.225893
+Scan posted:
+2015-06-09 11:58:59.425675
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 201
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 65
+Total scans: 201
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 11:59:03.428190
+Test has lasted for 02:00:28.8510140
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:03:03.424454
+Posting Scan
+2015-06-09 12:03:03.424508
+Scan posted:
+2015-06-09 12:03:03.571937
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 209
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 66
+Total scans: 202
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:03:07.575883
+Test has lasted for 02:04:32.9985990
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:07:07.573293
+Posting Scan
+2015-06-09 12:07:07.573475
+Scan posted:
+2015-06-09 12:07:10.921136
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 203
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:07:14.923231
+Scan posted:
+2015-06-09 12:07:15.076809
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 204
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:07:19.077941
+Scan posted:
+2015-06-09 12:07:19.233001
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 205
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:07:23.236959
+Scan posted:
+2015-06-09 12:07:23.400248
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 206
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:07:27.403512
+Scan posted:
+2015-06-09 12:07:27.578945
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 207
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:07:31.579843
+Scan posted:
+2015-06-09 12:07:31.728989
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 208
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:07:35.731329
+Scan posted:
+2015-06-09 12:07:35.912807
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 209
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 67
+Total scans: 209
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:07:39.913099
+Test has lasted for 02:09:05.3358690
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:11:39.912145
+Posting Scan
+2015-06-09 12:11:39.912361
+Scan posted:
+2015-06-09 12:11:40.061295
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 210
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:11:44.063357
+Scan posted:
+2015-06-09 12:11:44.319155
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 211
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 68
+Total scans: 211
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:11:48.324207
+Test has lasted for 02:13:13.7469880
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:15:48.318458
+Posting Scan
+2015-06-09 12:15:48.318553
+Scan posted:
+2015-06-09 12:15:48.587850
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 212
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:15:52.588387
+Scan posted:
+2015-06-09 12:15:52.732863
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 213
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:15:56.738167
+Scan posted:
+2015-06-09 12:15:56.902321
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 214
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 69
+Total scans: 214
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:16:00.906634
+Test has lasted for 02:17:26.3294130
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:20:00.901081
+Posting Scan
+2015-06-09 12:20:00.901268
+Scan posted:
+2015-06-09 12:20:01.097650
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 215
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:20:05.101544
+Scan posted:
+2015-06-09 12:20:05.276011
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 216
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:20:09.278569
+Scan posted:
+2015-06-09 12:20:09.501460
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 217
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 70
+Total scans: 217
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:20:13.503727
+Test has lasted for 02:21:38.9265050
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:24:13.504573
+Posting Scan
+2015-06-09 12:24:13.504678
+Scan posted:
+2015-06-09 12:24:13.718018
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 225
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 71
+Total scans: 218
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:24:17.719676
+Test has lasted for 02:25:43.1424610
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:28:17.719092
+Posting Scan
+2015-06-09 12:28:17.719194
+Scan posted:
+2015-06-09 12:28:17.868921
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 219
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:28:21.874287
+Scan posted:
+2015-06-09 12:28:22.046970
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 220
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 72
+Total scans: 220
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:28:26.048212
+Test has lasted for 02:29:51.4709260
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:32:26.047309
+Posting Scan
+2015-06-09 12:32:26.047414
+Scan posted:
+2015-06-09 12:32:26.312757
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 221
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:32:30.321932
+Scan posted:
+2015-06-09 12:32:30.479174
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 222
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:32:34.480314
+Scan posted:
+2015-06-09 12:32:34.686937
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 223
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 73
+Total scans: 223
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:32:38.689965
+Test has lasted for 02:34:04.1127680
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:36:38.689507
+Posting Scan
+2015-06-09 12:36:38.689731
+Scan posted:
+2015-06-09 12:36:38.833143
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 224
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:36:42.836400
+Scan posted:
+2015-06-09 12:36:43.272239
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 225
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:36:47.277592
+Scan posted:
+2015-06-09 12:36:47.427514
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 226
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 74
+Total scans: 226
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:36:51.429100
+Test has lasted for 02:38:16.8518950
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:40:51.428799
+Posting Scan
+2015-06-09 12:40:51.428933
+Scan posted:
+2015-06-09 12:40:51.630850
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 227
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 75
+Total scans: 227
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:40:55.633696
+Test has lasted for 02:42:21.0565220
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:44:55.630970
+Posting Scan
+2015-06-09 12:44:55.631133
+Scan posted:
+2015-06-09 12:44:55.830311
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 228
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:44:59.830774
+Scan posted:
+2015-06-09 12:45:01.568819
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 229
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:45:05.573808
+Scan posted:
+2015-06-09 12:45:05.728095
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 230
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 76
+Total scans: 230
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:45:09.730440
+Test has lasted for 02:46:35.1532800
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:49:09.729796
+Posting Scan
+2015-06-09 12:49:09.729903
+Scan posted:
+2015-06-09 12:49:09.878148
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 231
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:49:13.879616
+Scan posted:
+2015-06-09 12:49:14.030757
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 232
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:49:18.034462
+Scan posted:
+2015-06-09 12:49:18.184160
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 233
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 77
+Total scans: 233
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:49:22.188787
+Test has lasted for 02:50:47.6116880
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:53:22.184437
+Posting Scan
+2015-06-09 12:53:22.184579
+Scan posted:
+2015-06-09 12:53:22.430244
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 234
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:53:26.434572
+Scan posted:
+2015-06-09 12:53:26.649004
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 235
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 78
+Total scans: 235
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:53:30.650318
+Test has lasted for 02:54:56.0731030
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 12:57:30.647848
+Posting Scan
+2015-06-09 12:57:30.648086
+Scan posted:
+2015-06-09 12:57:30.834039
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 236
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:57:34.835075
+Scan posted:
+2015-06-09 12:57:34.989873
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 237
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:57:38.990918
+Scan posted:
+2015-06-09 12:57:39.177492
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 238
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:57:43.181274
+Scan posted:
+2015-06-09 12:57:43.354222
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 239
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:57:47.357610
+Scan posted:
+2015-06-09 12:57:47.497786
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 240
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:57:51.499712
+Scan posted:
+2015-06-09 12:57:51.663035
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 241
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 12:57:55.668229
+Scan posted:
+2015-06-09 12:57:55.861312
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 242
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 79
+Total scans: 242
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 12:57:59.864851
+Test has lasted for 02:59:25.2876270
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:01:59.864043
+Posting Scan
+2015-06-09 01:01:59.864143
+Scan posted:
+2015-06-09 01:02:09.742992
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 243
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:02:13.748311
+Scan posted:
+2015-06-09 01:02:13.953293
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 244
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:02:17.957537
+Scan posted:
+2015-06-09 01:02:18.096769
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 245
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:02:22.097749
+Scan posted:
+2015-06-09 01:02:22.333857
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 246
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:02:26.335261
+Scan posted:
+2015-06-09 01:02:26.492348
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 247
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:02:30.494881
+Scan posted:
+2015-06-09 01:02:30.659330
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 248
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 80
+Total scans: 248
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:02:34.660721
+Test has lasted for 03:04:00.0835000
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:06:34.657605
+Posting Scan
+2015-06-09 01:06:34.657833
+Scan posted:
+2015-06-09 01:06:34.825057
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 249
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:06:38.826197
+Scan posted:
+2015-06-09 01:06:39.032094
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 250
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 81
+Total scans: 250
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:06:43.033327
+Test has lasted for 03:08:08.4561050
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:10:43.033444
+Posting Scan
+2015-06-09 01:10:43.033541
+Scan posted:
+2015-06-09 01:10:43.284841
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 258
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 82
+Total scans: 251
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:10:47.288319
+Test has lasted for 03:12:12.7110650
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:14:47.283466
+Posting Scan
+2015-06-09 01:14:47.283537
+Scan posted:
+2015-06-09 01:14:47.428858
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 252
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:14:51.432781
+Scan posted:
+2015-06-09 01:14:51.573579
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 253
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:14:55.577542
+Scan posted:
+2015-06-09 01:14:55.862777
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 254
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:14:59.864053
+Scan posted:
+2015-06-09 01:15:00.037645
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 255
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:15:04.040987
+Scan posted:
+2015-06-09 01:15:04.166642
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 256
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:15:08.166804
+Scan posted:
+2015-06-09 01:15:08.310916
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 257
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:15:12.314955
+Scan posted:
+2015-06-09 01:15:12.452704
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 258
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 83
+Total scans: 258
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:15:16.456774
+Test has lasted for 03:16:41.8794910
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:19:16.454591
+Posting Scan
+2015-06-09 01:19:16.454692
+Scan posted:
+2015-06-09 01:19:16.591813
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 259
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:19:20.594972
+Scan posted:
+2015-06-09 01:19:20.739552
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 260
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 84
+Total scans: 260
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:19:24.742221
+Test has lasted for 03:20:50.1650980
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:23:24.737972
+Posting Scan
+2015-06-09 01:23:24.738071
+Scan posted:
+2015-06-09 01:23:24.975880
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 261
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:23:28.980603
+Scan posted:
+2015-06-09 01:23:29.129754
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 262
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:23:33.132631
+Scan posted:
+2015-06-09 01:23:33.298217
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 263
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 85
+Total scans: 263
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:23:37.298720
+Test has lasted for 03:25:02.7214840
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:27:37.296926
+Posting Scan
+2015-06-09 01:27:37.297002
+Scan posted:
+2015-06-09 01:27:37.424765
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 264
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:27:41.425984
+Scan posted:
+2015-06-09 01:27:41.544299
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 265
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:27:45.546195
+Scan posted:
+2015-06-09 01:27:45.667313
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 266
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:27:49.669654
+Scan posted:
+2015-06-09 01:27:49.802717
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 267
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:27:53.806663
+Scan posted:
+2015-06-09 01:27:53.936253
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 268
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:27:57.936774
+Scan posted:
+2015-06-09 01:27:58.140304
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 269
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 86
+Total scans: 269
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:28:02.143468
+Test has lasted for 03:29:27.5662540
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:32:02.139125
+Posting Scan
+2015-06-09 01:32:02.139156
+Scan posted:
+2015-06-09 01:32:02.319644
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 270
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 87
+Total scans: 270
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:32:06.321312
+Test has lasted for 03:33:31.7440330
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:36:06.320276
+Posting Scan
+2015-06-09 01:36:06.320376
+Scan posted:
+2015-06-09 01:36:06.526152
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 271
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:36:10.528665
+Scan posted:
+2015-06-09 01:36:10.680357
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 272
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:36:14.684042
+Scan posted:
+2015-06-09 01:36:14.877439
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 273
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 88
+Total scans: 273
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:36:18.882534
+Test has lasted for 03:37:44.3053430
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:40:18.877924
+Posting Scan
+2015-06-09 01:40:18.878022
+Scan posted:
+2015-06-09 01:40:19.020665
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 274
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:40:23.021726
+Scan posted:
+2015-06-09 01:40:23.184294
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 275
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:40:27.189470
+Scan posted:
+2015-06-09 01:40:27.410273
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 276
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 89
+Total scans: 276
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:40:31.413791
+Test has lasted for 03:41:56.8367030
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:44:31.409531
+Posting Scan
+2015-06-09 01:44:31.409627
+Scan posted:
+2015-06-09 01:44:31.661978
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 277
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:44:35.664571
+Scan posted:
+2015-06-09 01:44:35.827766
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 278
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:44:39.831810
+Scan posted:
+2015-06-09 01:44:40.025871
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 279
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 90
+Total scans: 279
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:44:44.028856
+Test has lasted for 03:46:09.4516140
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:48:44.026333
+Posting Scan
+2015-06-09 01:48:44.026577
+Scan posted:
+2015-06-09 01:48:44.503889
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 280
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:48:48.508300
+Scan posted:
+2015-06-09 01:48:48.881319
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 281
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:48:52.882204
+Scan posted:
+2015-06-09 01:48:53.628228
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 282
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:48:57.629779
+Scan posted:
+2015-06-09 01:48:58.104734
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 283
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:49:02.106011
+Scan posted:
+2015-06-09 01:49:02.364315
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 284
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:49:06.367240
+Scan posted:
+2015-06-09 01:49:06.524998
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 285
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 91
+Total scans: 285
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:49:10.527425
+Test has lasted for 03:50:35.9501690
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:50:10.527903
+Posting Scan
+2015-06-09 01:50:10.528000
+Scan posted:
+2015-06-09 01:50:10.918512
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 286
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 92
+Total scans: 286
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:50:14.919997
+Test has lasted for 03:51:40.3428800
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:51:14.924354
+Posting Scan
+2015-06-09 01:51:14.924459
+Scan posted:
+2015-06-09 01:51:15.052499
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 287
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:51:19.052913
+Scan posted:
+2015-06-09 01:51:19.271785
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 288
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:51:23.274004
+Scan posted:
+2015-06-09 01:51:23.454744
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 289
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 93
+Total scans: 289
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:51:27.459532
+Test has lasted for 03:52:52.8823160
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:52:27.459460
+Posting Scan
+2015-06-09 01:52:27.459561
+Scan posted:
+2015-06-09 01:52:27.608500
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 290
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:52:31.609794
+Scan posted:
+2015-06-09 01:52:31.781904
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 291
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:52:35.784934
+Scan posted:
+2015-06-09 01:52:35.918617
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 292
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 94
+Total scans: 292
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:52:39.923068
+Test has lasted for 03:54:05.3458320
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:53:39.940279
+Posting Scan
+2015-06-09 01:53:39.940340
+Scan posted:
+2015-06-09 01:53:40.301368
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 293
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:53:44.303586
+Scan posted:
+2015-06-09 01:53:46.479940
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 294
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 95
+Total scans: 294
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:53:50.481146
+Test has lasted for 03:55:15.9038900
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:54:50.480857
+Posting Scan
+2015-06-09 01:54:50.480950
+Scan posted:
+2015-06-09 01:54:51.579629
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 302
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 96
+Total scans: 295
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:54:55.583683
+Test has lasted for 03:56:21.0064480
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:55:55.587706
+Posting Scan
+2015-06-09 01:55:55.587957
+Scan posted:
+2015-06-09 01:55:55.725303
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 296
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:55:59.726788
+Scan posted:
+2015-06-09 01:55:59.955640
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 297
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:56:03.956158
+Scan posted:
+2015-06-09 01:56:04.099902
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 298
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:56:08.101487
+Scan posted:
+2015-06-09 01:56:08.241100
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 299
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:56:12.245720
+Scan posted:
+2015-06-09 01:56:12.376857
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 300
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:56:16.381677
+Scan posted:
+2015-06-09 01:56:16.507197
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 301
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:56:20.511417
+Scan posted:
+2015-06-09 01:56:20.659809
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 302
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 97
+Total scans: 302
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:56:24.663993
+Test has lasted for 03:57:50.0867710
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:57:24.667627
+Posting Scan
+2015-06-09 01:57:24.667887
+Scan posted:
+2015-06-09 01:57:24.797240
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 303
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:57:28.798127
+Scan posted:
+2015-06-09 01:57:29.310758
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 304
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 98
+Total scans: 304
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:57:33.313005
+Test has lasted for 03:58:58.7357880
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:58:33.315541
+Posting Scan
+2015-06-09 01:58:33.315639
+Scan posted:
+2015-06-09 01:58:34.010309
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 305
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:58:38.012106
+Scan posted:
+2015-06-09 01:58:38.197916
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 306
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:58:42.200367
+Scan posted:
+2015-06-09 01:58:42.359958
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 307
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 99
+Total scans: 307
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:58:46.361700
+Test has lasted for 04:00:11.7844470
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 01:59:46.365848
+Posting Scan
+2015-06-09 01:59:46.366083
+Scan posted:
+2015-06-09 01:59:46.511980
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 308
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:59:50.514721
+Scan posted:
+2015-06-09 01:59:50.690078
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 309
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 01:59:54.694072
+Scan posted:
+2015-06-09 01:59:54.833992
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 310
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 100
+Total scans: 310
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 01:59:58.834312
+Test has lasted for 04:01:24.2572120
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:00:58.835683
+Posting Scan
+2015-06-09 02:00:58.835965
+Scan posted:
+2015-06-09 02:00:59.007300
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 318
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 101
+Total scans: 311
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:01:03.011069
+Test has lasted for 04:02:28.4338090
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:02:03.013821
+Posting Scan
+2015-06-09 02:02:03.013992
+Scan posted:
+2015-06-09 02:02:03.295452
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 312
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:02:07.298801
+Scan posted:
+2015-06-09 02:02:07.534160
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 313
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 102
+Total scans: 313
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:02:11.535502
+Test has lasted for 04:03:36.9582350
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:03:11.536616
+Posting Scan
+2015-06-09 02:03:11.536962
+Scan posted:
+2015-06-09 02:03:11.725647
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 314
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:03:15.729343
+Scan posted:
+2015-06-09 02:03:15.872885
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 315
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:03:19.874886
+Scan posted:
+2015-06-09 02:03:20.022751
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 316
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 103
+Total scans: 316
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:03:24.026560
+Test has lasted for 04:04:49.4492890
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:04:24.025959
+Posting Scan
+2015-06-09 02:04:24.026129
+Scan posted:
+2015-06-09 02:04:24.352977
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 317
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:04:28.356956
+Scan posted:
+2015-06-09 02:04:28.505703
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 318
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:04:32.505820
+Scan posted:
+2015-06-09 02:04:32.782526
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 319
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 104
+Total scans: 319
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:04:36.786577
+Test has lasted for 04:06:02.2094350
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:05:36.788534
+Posting Scan
+2015-06-09 02:05:36.788753
+Scan posted:
+2015-06-09 02:05:37.139509
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 320
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 105
+Total scans: 320
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:05:41.142999
+Test has lasted for 04:07:06.5657760
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:06:41.147267
+Posting Scan
+2015-06-09 02:06:41.147385
+Scan posted:
+2015-06-09 02:06:41.326332
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 321
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:06:45.331466
+Scan posted:
+2015-06-09 02:06:45.493415
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 322
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:06:49.495686
+Scan posted:
+2015-06-09 02:06:49.656399
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 323
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 106
+Total scans: 323
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:06:53.658261
+Test has lasted for 04:08:19.0811220
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:07:53.660273
+Posting Scan
+2015-06-09 02:07:53.660374
+Scan posted:
+2015-06-09 02:07:53.831362
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 324
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:07:57.835261
+Scan posted:
+2015-06-09 02:07:58.069319
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 325
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:08:02.074582
+Scan posted:
+2015-06-09 02:08:02.228300
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 326
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 107
+Total scans: 326
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:08:06.228812
+Test has lasted for 04:09:31.6516320
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:09:06.228361
+Posting Scan
+2015-06-09 02:09:06.228456
+Scan posted:
+2015-06-09 02:09:06.567290
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 327
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:09:10.572566
+Scan posted:
+2015-06-09 02:09:10.713577
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 328
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 108
+Total scans: 328
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:09:14.714829
+Test has lasted for 04:10:40.1376230
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:10:14.718881
+Posting Scan
+2015-06-09 02:10:14.719013
+Scan posted:
+2015-06-09 02:10:14.874463
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 329
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:10:18.875986
+Scan posted:
+2015-06-09 02:10:19.017262
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 330
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:10:23.020590
+Scan posted:
+2015-06-09 02:10:23.196590
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 331
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:10:27.198537
+Scan posted:
+2015-06-09 02:10:27.368301
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 332
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:10:31.372794
+Scan posted:
+2015-06-09 02:10:31.516548
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 333
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:10:35.519391
+Scan posted:
+2015-06-09 02:10:35.735002
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 334
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:10:39.735100
+Scan posted:
+2015-06-09 02:10:39.883610
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 335
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 109
+Total scans: 335
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:10:43.885051
+Test has lasted for 04:12:09.3078650
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:11:43.889265
+Posting Scan
+2015-06-09 02:11:43.889364
+Scan posted:
+2015-06-09 02:11:44.044441
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 336
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:11:48.047517
+Scan posted:
+2015-06-09 02:11:48.252559
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 337
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:11:52.254073
+Scan posted:
+2015-06-09 02:11:52.424223
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 338
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:11:56.427366
+Scan posted:
+2015-06-09 02:11:56.563564
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 339
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:12:00.566122
+Scan posted:
+2015-06-09 02:12:02.278140
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 340
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:12:06.279523
+Scan posted:
+2015-06-09 02:12:06.420169
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 341
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 110
+Total scans: 341
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:12:10.424012
+Test has lasted for 04:13:35.8467890
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:13:10.426574
+Posting Scan
+2015-06-09 02:13:10.426733
+Scan posted:
+2015-06-09 02:13:10.583319
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 342
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:13:14.588263
+Scan posted:
+2015-06-09 02:13:14.727792
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 343
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 111
+Total scans: 343
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:13:18.731116
+Test has lasted for 04:14:44.1538930
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:14:18.733345
+Posting Scan
+2015-06-09 02:14:18.733463
+Scan posted:
+2015-06-09 02:14:18.881275
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 351
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 112
+Total scans: 344
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:14:22.886307
+Test has lasted for 04:15:48.3090520
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:15:22.888369
+Posting Scan
+2015-06-09 02:15:22.888534
+Scan posted:
+2015-06-09 02:15:23.113415
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 345
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:15:27.115353
+Scan posted:
+2015-06-09 02:15:27.302749
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 346
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:15:31.306790
+Scan posted:
+2015-06-09 02:15:31.513031
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837223",
+  "s": 347
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:15:35.515865
+Scan posted:
+2015-06-09 02:15:35.698216
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 348
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:15:39.699274
+Scan posted:
+2015-06-09 02:15:39.878416
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 349
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:15:43.878733
+Scan posted:
+2015-06-09 02:15:44.166607
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 350
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:15:48.169046
+Scan posted:
+2015-06-09 02:15:48.318471
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 351
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 7
+Total baskets: 113
+Total scans: 351
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:15:52.320059
+Test has lasted for 04:17:17.7428460
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:16:52.321231
+Posting Scan
+2015-06-09 02:16:52.321454
+Scan posted:
+2015-06-09 02:16:52.590013
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837315",
+  "s": 352
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:16:56.595013
+Scan posted:
+2015-06-09 02:16:56.784397
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 353
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 2
+Total baskets: 114
+Total scans: 353
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:17:00.786187
+Test has lasted for 04:18:26.2089510
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:18:00.797401
+Posting Scan
+2015-06-09 02:18:00.797638
+Scan posted:
+2015-06-09 02:18:00.963360
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000383720",
+  "s": 354
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:18:04.968144
+Scan posted:
+2015-06-09 02:18:05.176031
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 355
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:18:09.180440
+Scan posted:
+2015-06-09 02:18:11.025125
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837261",
+  "s": 356
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 115
+Total scans: 356
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:18:15.030338
+Test has lasted for 04:19:40.4530830
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:19:15.030734
+Posting Scan
+2015-06-09 02:19:15.031008
+Scan posted:
+2015-06-09 02:19:15.173913
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837360",
+  "s": 357
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:19:19.178375
+Scan posted:
+2015-06-09 02:19:19.305728
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 358
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:19:23.310104
+Scan posted:
+2015-06-09 02:19:23.510114
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338973",
+  "s": 359
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:19:27.511782
+Scan posted:
+2015-06-09 02:19:27.678141
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 360
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:19:31.678394
+Scan posted:
+2015-06-09 02:19:31.845962
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 361
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:19:35.848242
+Scan posted:
+2015-06-09 02:19:35.994015
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 362
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 6
+Total baskets: 116
+Total scans: 362
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:19:39.997306
+Test has lasted for 04:21:05.4201210
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:20:39.999478
+Posting Scan
+2015-06-09 02:20:39.999574
+Scan posted:
+2015-06-09 02:20:40.364185
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837339",
+  "s": 363
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 1
+Total baskets: 117
+Total scans: 363
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:20:44.369268
+Test has lasted for 04:22:09.7921030
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:21:44.373487
+Posting Scan
+2015-06-09 02:21:44.373702
+Scan posted:
+2015-06-09 02:21:44.553258
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336894",
+  "s": 364
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:21:48.558625
+Scan posted:
+2015-06-09 02:21:48.724295
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 365
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:21:52.724582
+Scan posted:
+2015-06-09 02:21:52.866710
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837049",
+  "s": 366
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 118
+Total scans: 366
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:21:56.868589
+Test has lasted for 04:23:22.2914080
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:22:56.872561
+Posting Scan
+2015-06-09 02:22:56.872724
+Scan posted:
+2015-06-09 02:22:57.020780
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837988",
+  "s": 367
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:23:01.022084
+Scan posted:
+2015-06-09 02:23:01.169454
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 368
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:23:05.172355
+Scan posted:
+2015-06-09 02:23:05.326217
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837827",
+  "s": 369
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 119
+Total scans: 369
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:23:09.327579
+Test has lasted for 04:24:34.7503570
+Waiting for next basket...
+Getting next basket
+
+2015-06-09 02:24:09.330666
+Posting Scan
+2015-06-09 02:24:09.330764
+Scan posted:
+2015-06-09 02:24:09.489067
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000336108",
+  "s": 370
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:24:13.489658
+Scan posted:
+2015-06-09 02:24:13.620773
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000837018",
+  "s": 371
+}
+Posted Scan
+Waiting for next scan...
+Posting Scan
+2015-06-09 02:24:17.625977
+Scan posted:
+2015-06-09 02:24:17.776306
+{
+  "i": "D05FB84F2A56",
+  "b": null,
+  "d": "416000338799",
+  "s": 372
+}
+Posted Scan
+Waiting for next scan...
+Basket complete.
+Number of items in this basket: 3
+Total baskets: 120
+Total scans: 372
+Test started at: 2015-06-09 09:58:34.573599
+Current time: 2015-06-09 02:24:21.778586
+Test has lasted for 04:25:47.2013060
+Waiting for next basket...
+Getting next basket
+
+Reached end of posts
+
+Summary:
+Total baskets: 120
+Total scans: 372
+Test started at 2015-06-09 09:58:34.573599
+Test ended at 2015-06-09 02:25:21.785585
+Test lasted for 04:26:47.2083300

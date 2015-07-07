@@ -5,7 +5,6 @@
 *.pydevproject
 .project
 .metadata
-bin/
 tmp/
 *.tmp
 *.bak
@@ -43,12 +42,9 @@ local.properties
 
 # Build results
 
-[Dd]ebug/
 [Rr]elease/
 x64/
 build/
-[Bb]in/
-[Oo]bj/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -217,10 +213,7 @@ pip-log.txt
 ####################################
 #Don't upload a million test results
 ####################################
-*.csv
-*.userprefs
-*.exe
-*.exe
+
 *ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
 *.ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
 *.ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
@@ -237,9 +230,7 @@ logs/testLog.txt
 
 logs/OSXtestResults130779978234317050.txt
 
-*.txt
 
 logs/OSXtestResults130779978232105540.txt
 =======
-logs/*
 >>>>>>> origin/master

@@ -1,4 +1,4 @@
-2015-07-07 2:44:35 PM
+2015-07-07 2:49:58 PM
 current test: DeviceStatus AlertDataStore
 Json posted:
 {
@@ -17,12 +17,12 @@ Json posted:
   "callHomeTimeoutMode": "0",
   "callHomeTimeoutData": null,
   "dynCodeFormat": [
-    "2015-07-07T18:44:35Z///900///bypassmode"
+    "2015-07-07T18:49:58Z///900///bypassmode"
   ],
   "cmdChkInt": "1",
   "revId": "52987",
   "errorLog": [
-    "2015-07-07T18:44:35Z///900///bypassmode"
+    "2015-07-07T18:49:58Z///900///bypassmode"
   ]
 }
 Server returned:
@@ -77,7 +77,7 @@ Server returned:
     {
       "Key": "Date",
       "Value": [
-        "Tue, 07 Jul 2015 18:44:35 GMT"
+        "Tue, 07 Jul 2015 18:49:58 GMT"
       ]
     }
   ],
@@ -132,7 +132,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:35 PM
+2015-07-07 2:49:58 PM
 current test: DeviceStatus EmptySerial
 Json posted:
 {
@@ -164,7 +164,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:35 PM
+2015-07-07 2:49:58 PM
 current test: DeviceStatus BadSerial
 Json posted:
 {
@@ -196,7 +196,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:35 PM
+2015-07-07 2:49:58 PM
 current test: DeviceStatus NullSerial
 Json posted:
 {
@@ -228,7 +228,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:36 PM
+2015-07-07 2:49:58 PM
 current test: DeviceStatus ValidSerial
 Json posted:
 {
@@ -247,16 +247,16 @@ Json posted:
   "callHomeTimeoutMode": "0",
   "callHomeTimeoutData": "",
   "dynCodeFormat": [
-    "2015-07-07T18:44:36Z///200///pleasework",
-    "2015-07-07T18:44:36Z///200///pleasework",
-    "2015-07-07T18:44:36Z///200///pleasework"
+    "2015-07-07T18:49:58Z///200///pleasework",
+    "2015-07-07T18:49:58Z///200///pleasework",
+    "2015-07-07T18:49:58Z///200///pleasework"
   ],
   "cmdChkInt": "1",
   "revId": "52987",
   "errorLog": [
-    "2015-07-07T18:44:36Z///200///pleasework",
-    "2015-07-07T18:44:36Z///200///pleasework",
-    "2015-07-07T18:44:36Z///200///pleasework"
+    "2015-07-07T18:49:58Z///200///pleasework",
+    "2015-07-07T18:49:58Z///200///pleasework",
+    "2015-07-07T18:49:58Z///200///pleasework"
   ]
 }
 Server returned:
@@ -311,7 +311,7 @@ Server returned:
     {
       "Key": "Date",
       "Value": [
-        "Tue, 07 Jul 2015 18:44:36 GMT"
+        "Tue, 07 Jul 2015 18:49:59 GMT"
       ]
     }
   ],

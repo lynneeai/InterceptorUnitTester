@@ -35,9 +35,11 @@ namespace ConsoleApplication1
 		{
 			try
 			{
-				testServer = new Uri(ConfigurationManager.ConnectionStrings["Server"].ConnectionString);
-				//demoServer = new Uri(ConfigurationManager.ConnectionStrings["DemoServer"].ConnectionString);
+				testServer = null;
+				//testServer = new Uri(ConfigurationManager.ConnectionStrings["Server"].ConnectionString);
+				testServer = new Uri("http://cozumotesttls.cloudapp.net");
 
+				//demoServer = new Uri(ConfigurationManager.ConnectionStrings["DemoServer"].ConnectionString);
 				demoServer = new Uri("http://cozumointops.cloudapp.net");
 
 				adminServer = new Uri(ConfigurationManager.ConnectionStrings["AdminServer"].ConnectionString);

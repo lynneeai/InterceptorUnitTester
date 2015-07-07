@@ -1,4 +1,4 @@
-2015-07-07 2:44:31 PM
+2015-07-07 2:49:53 PM
 current test: DeviceBackup BadSerial
 Json posted:
 {
@@ -30,7 +30,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:31 PM
+2015-07-07 2:49:54 PM
 current test: DeviceBackup EmptySerial
 Json posted:
 {
@@ -62,7 +62,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:31 PM
+2015-07-07 2:49:54 PM
 current test:DeviceBackup MalformedBackupItems
 Json posted:
 {
@@ -78,7 +78,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:31 PM
+2015-07-07 2:49:54 PM
 current test: DeviceBackup NoBackupItems
 Json posted:
 {
@@ -91,7 +91,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:54 PM
 current test: DeviceBackup NotSpecialDynCode
 Json posted:
 {
@@ -111,7 +111,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:54 PM
 current test: DeviceBackup NullSerial
 Json posted:
 {
@@ -143,7 +143,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:55 PM
 current test: DeviceBackup SpecialDynCode
 Json posted:
 {
@@ -163,7 +163,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:55 PM
 current test: DeviceBackup ValidBackupItemSimDyn
 Json posted:
 {
@@ -189,7 +189,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:55 PM
 current test: DeviceBackup ValidSerial
 Json posted:
 {
@@ -221,7 +221,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:55 PM
 current test: DeviceBackup ValidSingleBackupItem
 Json posted:
 {

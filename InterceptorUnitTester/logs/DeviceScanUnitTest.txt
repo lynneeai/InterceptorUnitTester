@@ -1,4 +1,4 @@
-2015-07-07 2:44:32 PM
+2015-07-07 2:49:55 PM
 current test: DeviceScan ASCIIScanCode
 Json posted:
 {
@@ -12,7 +12,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:55 PM
 current test: DeviceScan EmptySerialDyn
 Json posted:
 {
@@ -26,7 +26,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:55 PM
 current test: DeviceScan EmptySerialSimple
 Json posted:
 {
@@ -40,7 +40,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:55 PM
 current test: DeviceScan InvalidSerialDyn
 Json posted:
 {
@@ -54,7 +54,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan InvalidSerialSimple
 Json posted:
 {
@@ -68,7 +68,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan LOValidScansDyn
 Json posted:
 {
@@ -87,7 +87,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan LOValidScansSimple
 Json posted:
 {
@@ -106,7 +106,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan NoScanData
 Json posted:
 {
@@ -120,7 +120,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:33 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan NullSerialDyn
 Json posted:
 {
@@ -134,7 +134,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:34 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan NullSerialSimple
 Json posted:
 {
@@ -148,7 +148,7 @@ Expected result: 400
 Actual result: 400
 Test result: Pass
 
-2015-07-07 2:44:34 PM
+2015-07-07 2:49:56 PM
 current test: DeviceScan UTF8ScanCode
 Json posted:
 {
@@ -162,7 +162,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:34 PM
+2015-07-07 2:49:57 PM
 current test: DeviceScan ValidCH
 Json posted:
 {
@@ -176,7 +176,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:34 PM
+2015-07-07 2:49:57 PM
 current test: DeviceScan ValidScansSimDyn
 Json posted:
 {
@@ -195,7 +195,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:34 PM
+2015-07-07 2:49:57 PM
 current test: DeviceScan ValidSingleScanDyn
 Json posted:
 {
@@ -209,7 +209,7 @@ Expected result: 201
 Actual result: 201
 Test result: Pass
 
-2015-07-07 2:44:35 PM
+2015-07-07 2:49:57 PM
 current test: DeviceScan ValidSingleScanSimple
 Json posted:
 {

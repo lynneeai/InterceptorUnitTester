@@ -1,14 +1,15 @@
 ﻿<Properties StartupItem="InterceptorTester/InterceptorTester.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterceptorTester/Tests/InterceptorTests/DeviceStatusTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterceptorTester/Tests/TestGlobals.cs">
     <Files>
       <File FileName="InterceptorTester/JSON/DeviceBackupJSON.cs" Line="1" Column="1" />
-      <File FileName="InterceptorTester/Tests/InterceptorTests/DeviceBackupTest.cs" Line="1" Column="1" />
+      <File FileName="InterceptorTester/Tests/InterceptorTests/DeviceBackupTest.cs" Line="42" Column="28" />
+      <File FileName="InterceptorTester/Tests/TestGlobals.cs" Line="40" Column="5" />
+      <File FileName="InterceptorTester/App.config" Line="9" Column="55" />
       <File FileName="InterceptorTester/Tests/InterceptorTests/ICmdTest.cs" Line="1" Column="1" />
       <File FileName="InterceptorTester/Tests/InterceptorTests/DeviceStatusTest.cs" Line="1" Column="1" />
       <File FileName="InterceptorTester/Tests/InterceptorTests/DeviceSettingsTest.cs" Line="1" Column="1" />
       <File FileName="InterceptorTester/Tests/InterceptorTests/DeviceScanTest.cs" Line="1" Column="1" />
-      <File FileName="InterceptorTester/App.config" Line="29" Column="17" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
